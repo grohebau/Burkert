@@ -4,7 +4,7 @@
     "statusClass": "pending",
     "sender": "Daniel Voigt, Kirtaweg 8, 81829 München, Deutschland",
     "receiver": "Silvio Burkert, Mittweidaer Str. 47, 09326 Geringswalde, Deutschland",
-    "price": "9.900 €",
+    "price": "2.150 €",
     "description": "Hersteller: Simson<br>Typ: S 51<br>Fahrgestelnummer: 5005484<br>Erstzulassung: 06/1981<br>KM laut Vorbesitzer: 598 km<br>Leistung: 3 kW (4 PS)<br>Hubraum: 49 cm³<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
     "address": "Silvio Burkert<br>Mittweidaer Str. 47<br>09326 Geringswalde<br>Deutschland<br>Telefon: +49 1525 3185469",
     "documents": [
@@ -13,7 +13,7 @@
       { "name": "Rechnung", "url": "docs/Rechnung.pdf" },
       { "name": "AGB", "url": "docs/AGB.pdf" }
     ],
-    "orderDate": "07-08-2025",
-    "deliveryDate": "14-08-2025"
+    "orderDate": "08-08-2025",
+    "deliveryDate": "13-08-2025"
   }
 }
